@@ -13,7 +13,7 @@ namespace Ldap_Searcher
         private string user;
         private string pass;
 
-        public LdapManager(string ldapServer, string user = "mbossi", string pass = "Inverno18!")
+        public LdapManager(string ldapServer, string user = "USER", string pass = "PASS")
         {
             this.LdapServer = ldapServer;
             this.User = user;
