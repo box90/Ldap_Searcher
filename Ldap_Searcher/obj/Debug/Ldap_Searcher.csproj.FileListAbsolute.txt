@@ -1,0 +1,7 @@
+C:\Users\bossima1\Documents\Visual Studio 2017\Projects\Ldap_Searcher\Ldap_Searcher\bin\Debug\Ldap_Searcher.exe.config
+C:\Users\bossima1\Documents\Visual Studio 2017\Projects\Ldap_Searcher\Ldap_Searcher\bin\Debug\Ldap_Searcher.exe
+C:\Users\bossima1\Documents\Visual Studio 2017\Projects\Ldap_Searcher\Ldap_Searcher\bin\Debug\Ldap_Searcher.pdb
+C:\Users\bossima1\Documents\Visual Studio 2017\Projects\Ldap_Searcher\Ldap_Searcher\obj\Debug\Ldap_Searcher.csprojResolveAssemblyReference.cache
+C:\Users\bossima1\Documents\Visual Studio 2017\Projects\Ldap_Searcher\Ldap_Searcher\obj\Debug\Ldap_Searcher.csproj.CoreCompileInputs.cache
+C:\Users\bossima1\Documents\Visual Studio 2017\Projects\Ldap_Searcher\Ldap_Searcher\obj\Debug\Ldap_Searcher.exe
+C:\Users\bossima1\Documents\Visual Studio 2017\Projects\Ldap_Searcher\Ldap_Searcher\obj\Debug\Ldap_Searcher.pdb
