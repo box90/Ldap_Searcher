@@ -11,8 +11,8 @@ namespace Ldap_Searcher
     {
         static void Main(string[] args)
         {
-            LdapManager manager = new LdapManager("int.cgu.it");
-            List<string> groupsToSearch = new List<string> { "EVIFRS" };   //ecc.
+            LdapManager manager = new LdapManager("DOMAIN");
+            List<string> groupsToSearch = new List<string> { "GROUP_NAME" };   //ecc.
 
             List<UserPrincipal> searchedMembers = manager.SearchUsersInGroups(groupsToSearch);
 
